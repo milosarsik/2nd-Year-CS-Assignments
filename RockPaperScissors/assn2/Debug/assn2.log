@@ -1,0 +1,4 @@
+﻿  Guess.cpp
+d:\compsci1037alabs\assn2\assn2\guess.cpp(12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\compsci1037alabs\assn2\assn2\guess.cpp(71): warning C4715: 'Guess::compare': not all control paths return a value
+  assn2.vcxproj -> D:\COMPSCI1037ALABS\assn2\Debug\assn2.exe
